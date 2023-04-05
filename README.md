@@ -8,4 +8,3 @@ Additionally, the project will explore the different policy and regulatory frame
 
 The findings of the World Electricity Analysis Project will be presented in a series of reports and publications, which will be made available to policymakers, industry stakeholders, and the general public. These reports will provide valuable insights into the current state of the electricity sector and its future prospects, helping to inform decision-making and investment in the sector.
 
-![EXCEL_W23juSm5A7](https://user-images.githubusercontent.com/120596270/230167904-b246fb10-98dd-4729-85bc-75d0c13e98f9.png)
