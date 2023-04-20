@@ -1,10 +1,32 @@
 # World-Electricity-Analysis
 
-The project involves gathering data from multiple sources, including national statistical agencies, energy ministries, and industry reports, to create a comprehensive database of global electricity production, consumption, and distribution. The data is then analyzed to identify patterns and trends in electricity production and consumption, as well as to identify key drivers of these trends.
+World_Electricity_Analysis
+Overview:
+This project is a descriptive analysis of access to electricity, production from different sources(nuclear, oil & renewable energy) and distribution losses across countries.
+The project involves data wrangling on the data pulled from World Bank, loading the transformed data to the database, retrieving required data using SQL and visualising insights on Excel according to the problem statement.
+About dataset:
+Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets. 
+Tech stack used:
+Python & Pandas(for data wrangling).
+Microsoft SQL Server(for retrieving data).
+Microsoft Excel & PowerPoint(for visualising and presenting insights).
+Code files:
+World_Electricity_Analysis.ipynb
+World_Electricity_Analysis.sql
+Snapshot of the visualisation:
+Below is a snapshot of the excel dashboard.
 
-The project also includes a detailed analysis of the different types of electricity generation technologies, including fossil fuels, nuclear power, renewable energy, and emerging technologies. This analysis will examine the costs, benefits, and environmental impacts of each technology and their potential role in the future of the electricity sector.
 
-Additionally, the project will explore the different policy and regulatory frameworks that govern the electricity sector in different countries and regions, as well as the impact of these frameworks on electricity production, consumption, and distribution.
-
-The findings of the World Electricity Analysis Project will be presented in a series of reports and publications, which will be made available to policymakers, industry stakeholders, and the general public. These reports will provide valuable insights into the current state of the electricity sector and its future prospects, helping to inform decision-making and investment in the sector.
+Try functionalities on Excel.
+Presentation of the analysis:
+Presentation.
+Key insights:
+Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
+Production through nuclear power has been in increasing trend from the 1970s to 1990s.
+North American, European & Central Asian regions have been dominant in electricity production from nuclear energy throughout the evolution.
+High Income Group countries contribute to more than 70% of production through nuclear energy.
+Production through oil sources has been on a slight declining trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
+Production through renewable sources has seen a sharp increasing trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
+An insight can be drawn that dependency on oil-based production can attract losses in electricity distribution.
+An insight can be drawn that inefficiency or the least access to electricity can attract losses.
 
