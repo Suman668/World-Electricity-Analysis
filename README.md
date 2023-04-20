@@ -6,9 +6,9 @@ The project involves data wrangling on the data pulled from World Bank, loading 
 About dataset:
 Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets. 
 # Tech stack used:
- Python & Pandas(for data wrangling)
- Microsoft SQL Server(for retrieving data).
- Microsoft Excel & PowerPoint(for visualising and presenting insights).
+### Python & Pandas(for data wrangling)
+### Microsoft SQL Server(for retrieving data).
+### Microsoft Excel & PowerPoint(for visualising and presenting insights).
 
 # Key insights:
 Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
