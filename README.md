@@ -11,8 +11,11 @@ Datasets are from world bank APIs in JSON and CSV formats. The following are the
 ### Microsoft Excel & PowerPoint(for visualising and presenting insights).
 
 # Key insights:
+
 ##### Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
 ##### Production through nuclear power has been in increasing trend from the 1970s to 2000s.
+##### Electricity losses is constant.
+##### Electricity access in rural areas has been increased from 1960 to 2020.
 ##### North American, European & Central Asian regions have been dominant in electricity production from nuclear energy throughout the evolution.
 ##### Production through oil sources has been on a slight declining trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
 ##### Production through renewable sources has seen a sharp increasing trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
